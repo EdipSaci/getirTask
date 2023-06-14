@@ -101,7 +101,7 @@ This project is a QA automation framework built using Cucumber BDD (Behavior-Dri
 
 #### 4.Create a package called `com.opencart` under `src/test/java`
 
-> 1. under `com.opencart`, create `pages`, `runners`, `srep_definitions` and `utilities `packages 
+> 1. under `com.opencart`, create `pages`, `runners`, `step_definitions` and `utilities `packages 
 
 > 2. Add a `configuration.properties` file to store project information in order to avoid hard coding.
      add following information:
